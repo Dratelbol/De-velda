@@ -1,0 +1,23 @@
+C:\Users\Anel Lopez\source\repos\GestordeCitasFinal\bin\Debug\GestordeCitasFinal.exe.config
+C:\Users\Anel Lopez\source\repos\GestordeCitasFinal\bin\Debug\GestordeCitasFinal.exe
+C:\Users\Anel Lopez\source\repos\GestordeCitasFinal\bin\Debug\GestordeCitasFinal.pdb
+C:\Users\Anel Lopez\source\repos\GestordeCitasFinal\obj\Debug\GestordeCitasFinal.csproj.AssemblyReference.cache
+C:\Users\Anel Lopez\source\repos\GestordeCitasFinal\obj\Debug\GestordeCitasFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anel Lopez\source\repos\GestordeCitasFinal\obj\Debug\GestordeCitasFinal.Form1.resources
+C:\Users\Anel Lopez\source\repos\GestordeCitasFinal\obj\Debug\GestordeCitasFinal.Properties.Resources.resources
+C:\Users\Anel Lopez\source\repos\GestordeCitasFinal\obj\Debug\GestordeCitasFinal.csproj.GenerateResource.cache
+C:\Users\Anel Lopez\source\repos\GestordeCitasFinal\obj\Debug\GestordeCitasFinal.csproj.CoreCompileInputs.cache
+C:\Users\Anel Lopez\source\repos\GestordeCitasFinal\obj\Debug\GestordeCitasFinal.exe
+C:\Users\Anel Lopez\source\repos\GestordeCitasFinal\obj\Debug\GestordeCitasFinal.pdb
+C:\Users\Nicolas\Downloads\Nueva carpeta (3)\Ejercicios-DSII-main\GestordeCitasFinal\bin\Debug\GestordeCitasFinal.exe.config
+C:\Users\Nicolas\Downloads\Nueva carpeta (3)\Ejercicios-DSII-main\GestordeCitasFinal\bin\Debug\GestordeCitasFinal.exe
+C:\Users\Nicolas\Downloads\Nueva carpeta (3)\Ejercicios-DSII-main\GestordeCitasFinal\bin\Debug\GestordeCitasFinal.pdb
+C:\Users\Nicolas\Downloads\Nueva carpeta (3)\Ejercicios-DSII-main\GestordeCitasFinal\obj\Debug\GestordeCitasFinal.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Downloads\Nueva carpeta (3)\Ejercicios-DSII-main\GestordeCitasFinal\obj\Debug\GestordeCitasFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicolas\Downloads\Nueva carpeta (3)\Ejercicios-DSII-main\GestordeCitasFinal\obj\Debug\GestordeCitasFinal.Properties.Resources.resources
+C:\Users\Nicolas\Downloads\Nueva carpeta (3)\Ejercicios-DSII-main\GestordeCitasFinal\obj\Debug\GestordeCitasFinal.csproj.GenerateResource.cache
+C:\Users\Nicolas\Downloads\Nueva carpeta (3)\Ejercicios-DSII-main\GestordeCitasFinal\obj\Debug\GestordeCitasFinal.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Downloads\Nueva carpeta (3)\Ejercicios-DSII-main\GestordeCitasFinal\obj\Debug\GestordeCitasFinal.exe
+C:\Users\Nicolas\Downloads\Nueva carpeta (3)\Ejercicios-DSII-main\GestordeCitasFinal\obj\Debug\GestordeCitasFinal.pdb
+C:\Users\Nicolas\Downloads\Nueva carpeta (3)\Ejercicios-DSII-main\GestordeCitasFinal\obj\Debug\loginform.Form1.resources
+C:\Users\Nicolas\Downloads\Nueva carpeta (3)\Ejercicios-DSII-main\GestordeCitasFinal\obj\Debug\GestordeCitasFinal.FormPrincipal.resources
